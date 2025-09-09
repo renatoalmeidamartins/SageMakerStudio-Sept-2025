@@ -21,3 +21,6 @@
 - [Some additional PySpark magic commands](https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-studio-magics.html#accessing-all-magic-commands)
 - [Using Glue Interactive sessions, required images and kernels](https://docs.aws.amazon.com/sagemaker/latest/dg/studio-notebooks-glue.html)
 - [Sagemaker Python SDK](https://sagemaker.readthedocs.io/en/stable/)
+- [Possible ordinal encoding used, inferring order based on mean values for the target variable](https://feature-engine.trainindata.com/en/1.8.x/user_guide/encoding/OrdinalEncoder.html#ordered-ordinal-encoding) . Important to note that this info is not there in the docs for scikit or sagemaker, but based on the outcome of Data Wrangler seems to be what is used:
+  - [Data wrangler](https://sagemaker-examples.readthedocs.io/en/latest/sagemaker-datawrangler/tabular-dataflow/data-transformations/index.html#handle-categorical-data)
+  - [Scikit](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OrdinalEncoder.html)
