@@ -10,3 +10,4 @@
 - [AWS technical essentials on Skill builder](https://skillbuilder.aws/learn/K8C2FNZM6X/aws-technical-essentials/N7Q3SXQCDY)
 - [Sagemaker studio lab](https://studiolab.sagemaker.aws/login)
 - [Sagemaker studio lab documentation](https://docs.aws.amazon.com/sagemaker/latest/dg/studio-lab.html)
+- [Using multiple domains](https://docs.aws.amazon.com/sagemaker/latest/dg/domain-multiple.html)
