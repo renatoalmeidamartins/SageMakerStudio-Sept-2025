@@ -4,3 +4,6 @@
 
 - [Access to lab environment](https://us-east-1.student.classrooms.aws.training/class/ilt%23v8Tx76fddYa18jg1vJvvjX)
 - [List of available courses](https://releases.awstc.com/)
+
+### Day 1 links
+- [Build and deploy a scalable machine learning system on Kubernetes with Kubeflow on AWS](https://aws.amazon.com/blogs/machine-learning/build-and-deploy-a-scalable-machine-learning-system-on-kubernetes-with-kubeflow-on-aws/)
