@@ -20,3 +20,4 @@
 - [List of PySpark magic commands in Glue Interactive sessions](https://docs.aws.amazon.com/glue/latest/dg/interactive-sessions-magics.html)
 - [Some additional PySpark magic commands](https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-studio-magics.html#accessing-all-magic-commands)
 - [Using Glue Interactive sessions, required images and kernels](https://docs.aws.amazon.com/sagemaker/latest/dg/studio-notebooks-glue.html)
+- [Sagemaker Python SDK](https://sagemaker.readthedocs.io/en/stable/)
