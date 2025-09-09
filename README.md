@@ -24,3 +24,4 @@
 - [Possible ordinal encoding used, inferring order based on mean values for the target variable](https://feature-engine.trainindata.com/en/1.8.x/user_guide/encoding/OrdinalEncoder.html#ordered-ordinal-encoding) . Important to note that this info is not there in the docs for scikit or sagemaker, but based on the outcome of Data Wrangler seems to be what is used:
   - [Data wrangler](https://sagemaker-examples.readthedocs.io/en/latest/sagemaker-datawrangler/tabular-dataflow/data-transformations/index.html#handle-categorical-data)
   - [Scikit](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OrdinalEncoder.html)
+- [Job Function policies - permissions that](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_job-functions.html)
