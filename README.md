@@ -15,3 +15,8 @@
 - [Migrating from sagemaker classic to "new" studio](https://docs.aws.amazon.com/sagemaker/latest/dg/studio-updated-migrate.html)
 - [Options for customizing JupyterLab environment](https://docs.aws.amazon.com/whitepapers/latest/sagemaker-studio-admin-best-practices/customization.html)
 - [Sharing models and notebooks, also using Sagemaker JumpStart](https://aws.amazon.com/blogs/aws/new-share-ml-models-and-notebooks-more-easily-within-your-organization-with-amazon-sagemaker-jumpstart/)
+- [EMR releases](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-release-components.html)
+- [Connecting EMR serverless to Sagemaker](https://docs.aws.amazon.com/next-generation-sagemaker/latest/userguide/emr-serverless.html)
+- [List of PySpark magic commands in Glue Interactive sessions](https://docs.aws.amazon.com/glue/latest/dg/interactive-sessions-magics.html)
+- [Some additional PySpark magic commands](https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-studio-magics.html#accessing-all-magic-commands)
+- 
