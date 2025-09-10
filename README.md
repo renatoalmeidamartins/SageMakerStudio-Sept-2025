@@ -28,3 +28,4 @@
 
 ## Day 2 links
 - [Time series transformations in Data Wrangler](https://docs.aws.amazon.com/sagemaker/latest/dg/data-wrangler-transform.html#data-wrangler-transform-time-series)
+- [Sagemaker built-in algorithms](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
