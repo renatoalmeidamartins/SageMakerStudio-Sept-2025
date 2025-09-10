@@ -34,3 +34,5 @@
 - [Custom Docker containers with Sagemaker AI](https://docs.aws.amazon.com/sagemaker/latest/dg/docker-containers-adapt-your-own.html)
 - [Sagemaker debugger rules](https://docs.aws.amazon.com/sagemaker/latest/dg/use-debugger-built-in-profiler-rules.html)
 - [HyperParameterTuner documentation](https://sagemaker.readthedocs.io/en/stable/api/training/tuner.html)
+- [AWS Artifact, place to obtain compliance reports about AWS services and data centers](https://aws.amazon.com/artifact/)
+- [AWS config conformance packs](https://docs.aws.amazon.com/config/latest/developerguide/conformancepack-sample-templates.html)
