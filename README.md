@@ -33,3 +33,4 @@
 - [Sagemaker Spark SDK](https://github.com/aws/sagemaker-spark)
 - [Custom Docker containers with Sagemaker AI](https://docs.aws.amazon.com/sagemaker/latest/dg/docker-containers-adapt-your-own.html)
 - [Sagemaker debugger rules](https://docs.aws.amazon.com/sagemaker/latest/dg/use-debugger-built-in-profiler-rules.html)
+- [HyperParameterTuner documentation](https://sagemaker.readthedocs.io/en/stable/api/training/tuner.html)
