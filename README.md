@@ -38,4 +38,6 @@
 - [AWS config conformance packs](https://docs.aws.amazon.com/config/latest/developerguide/conformancepack-sample-templates.html)
 - [MLFlow from inside Sagemaker Studio](https://docs.aws.amazon.com/sagemaker/latest/dg/mlflow.html)
 - [Sagemaker Clarify SDK operations run_xxxx](https://sagemaker.readthedocs.io/en/stable/api/training/processing.html#sagemaker.clarify.SageMakerClarifyProcessor)
-- 
+- [Sagemaker training toolkit](https://github.com/aws/sagemaker-training-toolkit)
+- [Using spot instances on sagemaker](https://docs.aws.amazon.com/sagemaker/latest/dg/model-managed-spot-training.html)
+- [Spot instance advisor](https://aws.amazon.com/ec2/spot/instance-advisor/)
