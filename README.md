@@ -25,3 +25,6 @@
   - [Data wrangler](https://sagemaker-examples.readthedocs.io/en/latest/sagemaker-datawrangler/tabular-dataflow/data-transformations/index.html#handle-categorical-data)
   - [Scikit](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OrdinalEncoder.html)
 - [Job Function policies - permissions that](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_job-functions.html)
+
+## Day 2 links
+- [Time series transformations in Data Wrangler](https://docs.aws.amazon.com/sagemaker/latest/dg/data-wrangler-transform.html#data-wrangler-transform-time-series)
