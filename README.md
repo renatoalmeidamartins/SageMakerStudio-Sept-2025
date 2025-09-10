@@ -44,3 +44,4 @@
 - [Sagemaker registry model cards](https://docs.aws.amazon.com/sagemaker/latest/dg/model-cards.html#model-cards-json-schema)
 - [Defining a Sagemaker Pipeline using Python code](https://docs.aws.amazon.com/sagemaker/latest/dg/define-pipeline.html)
 - [Sagemaker Pipeline step types](https://docs.aws.amazon.com/sagemaker/latest/dg/build-and-manage-steps-types.html)
+- [Sagemaker inference recommender](https://docs.aws.amazon.com/sagemaker/latest/dg/inference-recommender.html)
