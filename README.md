@@ -37,4 +37,5 @@
 - [AWS Artifact, place to obtain compliance reports about AWS services and data centers](https://aws.amazon.com/artifact/)
 - [AWS config conformance packs](https://docs.aws.amazon.com/config/latest/developerguide/conformancepack-sample-templates.html)
 - [MLFlow from inside Sagemaker Studio](https://docs.aws.amazon.com/sagemaker/latest/dg/mlflow.html)
+- [Sagemaker Clarify SDK operations run_xxxx](https://sagemaker.readthedocs.io/en/stable/api/training/processing.html#sagemaker.clarify.SageMakerClarifyProcessor)
 - 
