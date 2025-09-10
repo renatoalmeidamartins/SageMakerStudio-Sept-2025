@@ -41,3 +41,4 @@
 - [Sagemaker training toolkit](https://github.com/aws/sagemaker-training-toolkit)
 - [Using spot instances on sagemaker](https://docs.aws.amazon.com/sagemaker/latest/dg/model-managed-spot-training.html)
 - [Spot instance advisor](https://aws.amazon.com/ec2/spot/instance-advisor/)
+- [Sagemaker registry model cards](https://docs.aws.amazon.com/sagemaker/latest/dg/model-cards.html#model-cards-json-schema)
