@@ -45,3 +45,9 @@
 - [Defining a Sagemaker Pipeline using Python code](https://docs.aws.amazon.com/sagemaker/latest/dg/define-pipeline.html)
 - [Sagemaker Pipeline step types](https://docs.aws.amazon.com/sagemaker/latest/dg/build-and-manage-steps-types.html)
 - [Sagemaker inference recommender](https://docs.aws.amazon.com/sagemaker/latest/dg/inference-recommender.html)
+
+## Day 3 links
+- [Model Monitor sample notebooks](https://github.com/aws-samples/amazon-sagemaker-model-monitor-using-bring-your-own-model/tree/main)
+- [Sagemaker studio auto shutdown available since September 2024, without needing an extension](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-sagemaker-studio-automatic-shutdown-idle-applications/)
+- [For reference, the auto shutdown extension](https://github.com/aws-samples/sagemaker-studio-auto-shutdown-extension)
+- 
