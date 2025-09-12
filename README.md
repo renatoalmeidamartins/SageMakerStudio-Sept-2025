@@ -1,5 +1,6 @@
 # SageMakerStudio-Sept-2025
 
+# Lab is updated! The error in a task on the capstone lab is sorted. Class was updated to the latest version on Sep 12th, at 8:00 AM US Eastern
 ## Class evaluation
 - Go to [aws.training](https://www.aws.training/)
 - Click sign in, log in with the same account you used to access the lab and course materials
